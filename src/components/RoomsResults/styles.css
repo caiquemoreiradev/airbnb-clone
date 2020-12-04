@@ -1,0 +1,52 @@
+.room_results__container {
+    border: 1px solid lightgray;
+    max-width: 300px;
+    border-radius: 33px;
+}
+
+.room_results__container:hover {
+    transform: scale(1.07);
+    cursor: pointer;
+}
+
+.room_results__container img {
+    width: 300px;
+    height: 170px;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+}
+
+.room_results__container .infos__bottom {
+    padding: 15px;
+}
+
+.room_results__container .infos__bottom .points {
+    display: flex;
+    justify-content: space-between;
+}
+
+.room_results__container .infos__bottom h5 {
+    padding: 5px;
+}
+
+.room_results__container .infos__bottom strong {
+    padding: 5px;
+}
+
+.room_results__container .infos__bottom p {
+    padding: 5px;
+}
+
+.room_results__container .infos__bottom .stars {
+    display: flex;
+    align-items: center;
+}
+
+.room_results__container .infos__bottom .stars .MuiSvgIcon-root {
+    color: red;
+}
+
+.rooms__container .rooms_top__infos .right .MuiSvgIcon-root:hover {
+    transform: scale(1.4);
+    cursor: pointer;
+}

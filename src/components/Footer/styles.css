@@ -1,0 +1,12 @@
+.footer__container {
+    border-top: 1px solid lightgray;
+    margin-top: 20px;
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer__container p {
+    padding: 5px;
+    font-size: 14px;
+}

@@ -1,0 +1,42 @@
+.card__container {
+    margin: 10px;
+    border: 0 solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    max-width: 430px;
+    height: 400px;
+}
+
+.card__container:hover {
+    transform: scale(1.07);
+}
+
+.card__container img {
+    object-fit: fill;
+    min-width: 415px;
+    min-height: 200px;
+    max-width: 430px;
+}
+
+.card__container .card_info {
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 20px;
+    border: 1;
+}
+
+.card__container .card_info h2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card__container .card_info h4 {
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

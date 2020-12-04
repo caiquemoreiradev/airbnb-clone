@@ -1,0 +1,52 @@
+.rooms__container {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.rooms__container .rooms_top__infos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rooms__container .rooms_top__infos .right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rooms__container .rooms_top__infos .right .MuiSvgIcon-root {
+    font-size: 30px;
+}
+
+.rooms__container .rooms_top__infos .right p {
+    margin-right: 10px;
+}
+
+.rooms__container h2:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.rooms__container h4 {
+    font-weight: normal;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.rooms__container .rooms {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.rooms__container .link__container h2 {
+    margin-right: 10px;
+}
+
+.rooms__container .link__container {
+    display: flex;
+    align-items: center;
+}

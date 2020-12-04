@@ -1,0 +1,86 @@
+.searchPage__container .header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    background-color: #f7f7f7;
+}
+
+.home__container .white__header {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.home__container .white__header .header__container .header__right p {
+    color: white;
+}
+
+.white__header .header__container .header__right .MuiSvgIcon-root {
+    color: white;
+}
+
+.searchPage__container .card__locations {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-bottom: 40px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.searchPage__container .card__locations a {
+    text-decoration: none;
+    color: black;
+}
+
+.searchPage__container .searchPage__section {
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 20px;
+}
+
+.searchPage__container .header .header__container .header__right {
+    color: black;
+}
+
+.header .header__container .header__right .MuiSvgIcon-root {
+    color: black;
+}
+
+.searchPage__container .searchPage__info {
+    padding: 20px;
+}
+
+.searchPage__container .searchPage__info p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.searchPage__info h1 {
+    margin-bottom: 30px;
+}
+
+.searchPage__info button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
+
+.white__header .header__container .header__right p {
+    color: #fff !important;
+}
+
+.header__container .header__right p {
+    color: black !important;
+}
+
+.white__header .header__container .header__right button span .MuiSvgIcon-root {
+    color: #fff !important;
+}
+
+.header__container .header__right button span .MuiSvgIcon-root {
+    color: black !important;
+}
