@@ -14,7 +14,7 @@
 ![Rooms]('')
 
 
-## Página de busca/recomendações
+## Seção de busca/recomendações
 
 ![Arredores](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/arredores.png?raw=true)
 
