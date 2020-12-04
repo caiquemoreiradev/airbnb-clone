@@ -16,7 +16,7 @@
 
 ## Página de busca/recomendações
 
-![Arredores]('')
+![Arredores]('https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/arredores.png?raw=true')
 
 ## Lista de Quartos em alta
 
