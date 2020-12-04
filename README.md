@@ -9,9 +9,9 @@
 
 ## Página principal da aplicação 
 
-![Main Page]('')
+![Main Page](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/banner.png?raw=true)
 
-![Rooms]('')
+![Rooms](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/main-page.png?raw=true)
 
 
 ## Seção de busca/recomendações
@@ -20,12 +20,28 @@
 
 ## Lista de Quartos em alta
 
-![Alta]('')
+![Alta](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/lists.png?raw=true)
 
 ## Página das acomodações
 
-![Acomodações]('')
+![Acomodações](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/rooms.png?raw=true)
 
 ## Ajuda/Mensagens
 
-![Stats]('')
+![Stats](https://github.com/caiquemoreiradev/airbnb-clone/blob/main/src/assets/assets.png?raw=true)
+
+
+
+## Para iniciar o projeto:
+
+### No diretório da aplicação
+
+#### Adicione os pacotes necessários com "npm install"
+#### Inicie o projeto com "yarn start"
+
+#### Runs the app in the development mode.
+##### Open http://localhost:3000 to view it in the browser.
+
+#### The page will reload if you make edits.
+#### You will also see any lint errors in the console.
+
